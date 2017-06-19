@@ -13,6 +13,7 @@ function __autoload($class_name) {
 }  
 
 
+
 $stateId = $_GET["state_id"] ? $_GET["state_id"] : 1;
 //查看uml图
 $stateObj = new StateOrder($stateId); //初始化开始
