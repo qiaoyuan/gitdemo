@@ -4,7 +4,7 @@ class Model{
     private static $conn;
     
     private function __construct() {
-
+        echo "不可被继承";
     }
 
     public static function getConn() {
