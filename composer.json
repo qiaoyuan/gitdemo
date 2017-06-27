@@ -1,0 +1,8 @@
+{
+    "name": "qydemo/gitdemo",
+    "description": "composerintrudtion",
+    "type": "library",
+    "license": "MIT",
+    "minimum-stability": "dev",
+    "require": {}
+}
