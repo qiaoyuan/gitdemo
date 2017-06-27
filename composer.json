@@ -1,8 +1,14 @@
 {
-    "name": "qydemo/gitdemo",
-    "description": "composerintrudtion",
-    "type": "library",
-    "license": "MIT",
+    "name": "qiaoyuan/git_demo",
+    "description": "demo",
+    "type": "project",
+    "license": "mit",
+    "authors": [
+        {
+            "name": "qiao joe",
+            "email": "34348492@qq.com"
+        }
+    ],
     "minimum-stability": "dev",
     "require": {}
 }
